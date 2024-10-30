@@ -1,0 +1,12 @@
+
+section {
+    margin: 0 auto; /* Center the section */
+  }
+  
+  /* Media query for screens up to 1200px */
+  @media (max-width: 1200px) {
+    section {
+      margin: 5%;
+    }
+  }
+  

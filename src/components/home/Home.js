@@ -1,5 +1,6 @@
-
 import profile from '../../assets/images/profile.jpg'; 
+
+import "./home.css";
 
 const Home = () => {
   return (
