@@ -29,9 +29,10 @@ const App = () => {
       ) : (
         <>
           <div className="flex flex-col w-full h-full bg-mainBg min-h-screen relative">
-            <div className="flex items-center fixed top-0 w-full bg-mainBg justify-between z-[11] h-[100px] backdrop-blur-md py-0 px-4 bg-opacity-75">
-              <Navbar />
-            </div>
+
+            <Navbar /> 
+           
+           
 
             <Sections />
 
