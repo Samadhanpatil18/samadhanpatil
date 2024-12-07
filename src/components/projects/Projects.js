@@ -89,7 +89,7 @@ const Projects = () => {
             </svg>
           </a>
           <a
-            href="https://snapgram-omega.vercel.app/"
+            href="insert the link of your demo project "
             className="flex justify-center items-center p-[10px] transition-all duration-200 hover:text-themeBlue"
             target="_blank"
             rel="noopener noreferrer"
