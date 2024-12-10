@@ -82,7 +82,7 @@ const Navbar = () => {
               style={{ opacity: 1 }}
             >
               <a
-                href="https://drive.google.com/file/d/11nsro2l3Z09Cdg36RCH_BxD11RTFGoH7/view"
+                href="https://drive.google.com/file/d/12GLvmudaCgV1D6mmT6C-_Vc1ClhT4o5A/view?usp=drive_link"
                 className="font-mono text-themeBlue bg-transparent border border-themeBlue rounded-[4px] py-[10px] px-4 text-[14px] transition-all ease-in-out duration-300 hover:shadow-buttonShadow"
                 target="_blank"
                 rel="noopener noreferrer"
