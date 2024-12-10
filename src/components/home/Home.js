@@ -24,7 +24,7 @@ const Home = () => {
               className="text-center lg:text-left text-clamp2 text-secondaryText font-bold font-fontHeading" 
               style={{ opacity: 1, transform: 'none' }}
             >
-              Front-End React Developer
+              MERN Stack Developer
             </h3>
             <p 
               className="text-center lg:text-left m-0 mt-[20px] text-secondaryText font-fontParagraph" 
