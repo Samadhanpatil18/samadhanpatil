@@ -1,4 +1,4 @@
-hu
+
 import React, { useState } from 'react';
 
 import cssGenImage from '../../assets/images/project_css_gen-Sj8kHjfR.jpg'; 
