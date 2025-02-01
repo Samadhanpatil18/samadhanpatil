@@ -359,7 +359,7 @@ const Projects = () => {
             <div className="block relative w-full bg-themeBlue shadow-aboutShadow rounded-lg transition-all duration-500 mix-blend-screen group-hover:mix-blend-normal h-full z-[3]">
               <img
                 className="w-auto md:w-full h-full min-h-[400px] bg-no-repeat rounded-lg relative object-cover transition-all duration-500 mix-blend-multiply grayscale contrast-[70%] brightness-50 md:brightness-95 group-hover:mix-blend-normal group-hover:filter-none opacity-85 md:opacity-100 z-[4]"
-                 src={thirtysixImage}
+                 // src={thirtysixImage}
                 alt=" Thirty Six studios home page"
               />
             </div>
