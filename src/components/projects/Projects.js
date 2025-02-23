@@ -257,9 +257,6 @@ const Projects = () => {
 </li>
 
 
-// third project 
-
-
 
   
   </ul>
