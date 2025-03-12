@@ -7,14 +7,14 @@ const projects = [
     title: 'PDF-Merger',
     description: "A PDF Merger Web App built with HTML, CSS, and JavaScript allows users to seamlessly upload and merge multiple PDF files into a single document..",
     githubLink: 'https://github.com/Samadhan0018/PDF_MERGER',
-    liveLink: 'https://tapesh-youtube-clone.vercel.app/',
+    liveLink: 'https://github.com/Samadhan0018/PDF_MERGER',
     techStack: [' HTML' ,'CSS', 'javaScript', 'API' ],
   },
   {
     title: 'Scientific Calculator',
     description: 'This calculator provides a lifelike feel, complete with a responsive design for various devices. Switch effortlessly between light and dark modes.',
     githubLink: 'https://github.com/Samadhan0018/Scientific_Calculator',
-    liveLink: 'https://portfolio.vercel.app/',
+    liveLink:'https://github.com/Samadhan0018/Scientific_Calculator',
     techStack: ['HTML', 'CSS', 'JavaScript ', 'DOM'],
   },
 
@@ -22,7 +22,7 @@ const projects = [
     title: 'Image-Search-WebApp',
     description: "The Image Search Web App, developed using HTML, CSS, and JavaScript, allows users to search and browse. Users can effortlessly explore, view, and download images sourced",
     githubLink: 'https://github.com/Samadhan0018/image-search-app',
-    liveLink: 'https://tapesh-youtube-clone.vercel.app/',
+    liveLink: 'https://github.com/Samadhan0018/image-search-app',
     techStack: [' HTML' ,'CSS', 'javaScript', 'API'],
   },
 
@@ -30,7 +30,7 @@ const projects = [
     title: 'Dynamic Currency Converter',
     description: 'Seamless currency conversion using my React-powered tool. Switch b/w currencies real-time data from a reliable API.',
     githubLink: 'https://github.com/Samadhan0018/Currency_Converter',
-    liveLink: 'https://portfolio.vercel.app/',
+    liveLink: 'https://github.com/Samadhan0018/Currency_Converter',
     techStack: ['React', 'API ', 'TailwindCSS'],
   },
  
