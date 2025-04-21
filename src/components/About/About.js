@@ -38,46 +38,59 @@ const About = () => {
 
     {/* Text Section */}
    <div className="text-secondaryText font-fontParagraph text-base md:text-justify w-full md:max-w-[350px] lg:max-w-[500px]">
-  <p className="mb-3">
-    I’m a passionate <span className="text-themeBlue">MERN Stack Developer</span> skilled in building full-stack web applications using{' '}
-    <span className="text-themeBlue">MongoDB</span>, <span className="text-themeBlue">Express.js</span>,{' '}
-    <span className="text-themeBlue">React.js</span>, and <span className="text-themeBlue">Node.js</span>. I specialize in creating clean,
-    responsive user interfaces and building robust backend APIs with a focus on performance and scalability.
-  </p>
-  <p className="mb-3">
-    I’ve worked on various real-world projects like a <span className="text-themeBlue">Food Delivery App (FoodEasy)</span>,{' '}
-    a <span className="text-themeBlue">Real-Time Chat App</span>, and a <span className="text-themeBlue">CSS Generator Tool</span>,
-    each helping me strengthen my development workflow and understand user-focused design.
-  </p>
-  <p className="mb-3">
-    I’m a team player who enjoys collaborating with cross-functional teams to bring ideas to life and build meaningful products.
-  </p>
-  <p className="mb-4">Here are a few technologies I’ve been working with recently:</p>
+      <p className="mb-3">
+        As a Junior Front-End Developer, I possess an impressive arsenal of skills in{' '}
+        <span className="text-themeBlue">HTML</span>, <span className="text-themeBlue">CSS</span>,{' '}
+        <span className="text-themeBlue">JavaScript</span>,{' '}
+        <span className="text-themeBlue">React</span> and <span className="text-themeBlue">Tailwind</span>. I excel in
+        designing and maintaining responsive websites that offer a smooth user experience. My expertise lies in crafting
+        dynamic, engaging interfaces through writing clean and optimized code and utilizing cutting-edge development tools
+        and techniques.
+      </p>
+      <p className="mb-3">
+        I possess a keen interest in leveraging Data Structures and Algorithms using{' '}
+        <span className="text-themeBlue">Java</span>. Over time, I have successfully tackled over{' '}
+        <span className="text-themeBlue">150+</span> distinct problems on renowned platforms such as{' '}
+        <a
+          href=""
+          className="text"
+        >
+          GeeksforGeeks
+        </a>{' '}
+        and{' '}
+        <a href="https://leetcode.com/u/Samadhan0018/" className="text-themeBlue underline underline-offset-2">
+          LeetCode
+        </a>
+        . Additionally, I actively participate in coding contests to continually refine my skills.
+      </p>
+      <p className="mb-3">
+        I am also a team player who thrives in collaborating with cross-functional teams to produce outstanding web
+        applications.
+      </p>
+      <p className="mb-4">Here are a few technologies I’ve been working with recently:</p>
 
-  <ul className="grid grid-cols-custom gap-x-3 overflow-hidden list-none">
-    <li>
-      <i className="text-themeBlue leading-3 mr-[7px]">▹</i>Java
-    </li>
-    <li>
-      <i className="text-themeBlue leading-3 mr-[7px]">▹</i>JavaScript (ES+)
-    </li>
-    <li>
-      <i className="text-themeBlue leading-3 mr-[7px]">▹</i>React Js
-    </li>
-    <li>
-      <i className="text-themeBlue leading-3 mr-[7px]">▹</i>Node.js
-    </li>
-    <li>
-      <i className="text-themeBlue leading-3 mr-[7px]">▹</i>Express.js
-    </li>
-    <li>
-      <i className="text-themeBlue leading-3 mr-[7px]">▹</i>MongoDB
-    </li>
-    <li>
-      <i className="text-themeBlue leading-3 mr-[7px]">▹</i>API Handling
-    </li>
-  </ul>
-</div>
+      <ul className="grid grid-cols-custom gap-x-3 overflow-hidden list-none">
+        <li>
+          <i className="text-themeBlue leading-3 mr-[7px]">▹</i>Java
+        </li>
+        <li>
+          <i className="text-themeBlue leading-3 mr-[7px]">▹</i>JavaScript (ES+)
+        </li>
+        <li>
+          <i className="text-themeBlue leading-3 mr-[7px]">▹</i>React Js
+        </li>
+        <li>
+          <i className="text-themeBlue leading-3 mr-[7px]">▹</i>Redux Toolkit
+        </li>
+        <li>
+          <i className="text-themeBlue leading-3 mr-[7px]">▹</i>Tailwind
+        </li>
+        <li>
+          <i className="text-themeBlue leading-3 mr-[7px]">▹</i>API Handling
+        </li>
+      </ul>
+    </div>
+  </div>
 
 </section>
    
