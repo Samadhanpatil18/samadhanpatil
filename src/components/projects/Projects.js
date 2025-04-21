@@ -374,7 +374,7 @@ const Projects = () => {
 
 
   
-  </ul>
+  // </ul>
 
 
 
