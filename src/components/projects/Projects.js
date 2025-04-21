@@ -1,7 +1,7 @@
 
 import React, { useState } from 'react';
 
-import cssGenImage from '../../assets/images/project_css_gen-Sj8kHjfR.jpg'; 
+
 import chatAppImage from '../../assets/images/project_ChatApp.jpg'; 
 import foodEasyImage from '../../assets/images/project_FoodEasy.png';
 
