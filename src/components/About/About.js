@@ -39,7 +39,7 @@ const About = () => {
     {/* Text Section */}
    <div className="text-secondaryText font-fontParagraph text-base md:text-justify w-full md:max-w-[350px] lg:max-w-[500px]">
      <p className="mb-3">
-    I’m a passionate <span className="text-themeBlue">MERN Stack Developer</span> skilled in building full-stack web applications using{' '}
+    I’m a passionate <span className="text-themeBlue">Software Developer</span> skilled in building full-stack web applications using{' '}
     <span className="text-themeBlue">MongoDB</span>, <span className="text-themeBlue">Express.js</span>,{' '}
     <span className="text-themeBlue">React.js</span>, and <span className="text-themeBlue">Node.js</span>. I specialize in creating clean,
     responsive user interfaces and building robust backend APIs with a focus on performance and scalability.
@@ -57,7 +57,25 @@ const About = () => {
 
      <ul className="grid grid-cols-custom gap-x-3 overflow-hidden list-none">
     <li>
-      <i className="text-themeBlue leading-3 mr-[7px]">▹</i>Java
+      <i className="text-themeBlue leading-3 mr-[7px]">▹</i>C#
+    </li>
+    <li>
+      <i className="text-themeBlue leading-3 mr-[7px]">▹</i>ASP.NET CORE 8.0
+    </li>
+    <li>
+      <i className="text-themeBlue leading-3 mr-[7px]">▹</i>WEB API
+    </li>
+    <li>
+      <i className="text-themeBlue leading-3 mr-[7px]">▹</i>SQL Server
+    </li>
+    <li>
+      <i className="text-themeBlue leading-3 mr-[7px]">▹</i>Entity Framework Core
+    </li>
+    <li>
+      <i className="text-themeBlue leading-3 mr-[7px]">▹</i>WEB API
+    </li>
+    <li>
+      <i className="text-themeBlue leading-3 mr-[7px]">▹</i>MVC Architecture
     </li>
     <li>
       <i className="text-themeBlue leading-3 mr-[7px]">▹</i>JavaScript (ES+)
