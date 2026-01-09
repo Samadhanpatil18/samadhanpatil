@@ -24,13 +24,13 @@ const Home = () => {
               className="text-center lg:text-left text-clamp2 text-secondaryText font-bold font-fontHeading" 
               style={{ opacity: 1, transform: 'none' }}
             >
-              MERN Stack Developer
+              Software Developer
             </h3>
             <p 
               className="text-center lg:text-left m-0 mt-[20px] text-secondaryText font-fontParagraph" 
               style={{ opacity: 1, transform: 'none' }}
             >
-              I'm a passionate front-end developer specialized in building exceptional web apps from Maharashtra, India 📍
+              I'm a passionate Software developer specialized in building exceptional web apps from Maharashtra, India 📍
             </p>
             <div 
               className="transition-all ease-in-out duration-300 hover:-translate-x-1 hover:-translate-y-1 mt-[50px]" 
