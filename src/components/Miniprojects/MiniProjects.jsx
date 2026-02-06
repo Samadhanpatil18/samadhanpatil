@@ -4,10 +4,10 @@ import ProjectCard from './ProjectCard';
 
 const projects = [
   {
-    title: 'PDF-Merger',
-    description: "A PDF Merger Web App built with HTML, CSS, and JavaScript allows users to seamlessly upload and merge multiple PDF files into a single document..",
-    githubLink: 'https://github.com/Samadhan0018/PDF_MERGER',
-    liveLink: 'https://github.com/Samadhan0018/PDF_MERGER',
+    title: 'Chat with Your Pdf',
+    description: ""Chat With PDF" applications allow you to upload documents and interact with them using natural language to extract specific information instantly. These tools use AI to scan text, tables, and charts, providing accurate summaries and cited answers to your questions.",
+    githubLink: 'https://github.com/Samadhanpatil18/Chat-with-pdf_usingRAG',
+    liveLink: 'https://chat-with-pdf-usingrag-frontend.onrender.com/',
     techStack: [' HTML' ,'CSS', 'javaScript', 'API' ],
   },
   {
